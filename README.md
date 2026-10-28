@@ -16,7 +16,7 @@ Each week, one PhD student presents a research topic. Presenters rotate in the o
 | December 4, 2026 | Huang Yaojun | TBD |
 | December 11, 2026 | Thi Quynh Anh Mai | TBD |
 | December 18, 2026 | Thi Chung Anh Nguyen | TBD |
-| December 25, 2026 | Thanh Lam Tran | TBD |
-
+| December 24, 2026 | Thanh Lam Tran | TBD |
+| December 31, 2026 | Dai Nghia Tran | TBD |
 **Updating topics:** Replace `TBD` with the presentation title. 
 You can link slides or other material directly from the topic cell (To be updated)
