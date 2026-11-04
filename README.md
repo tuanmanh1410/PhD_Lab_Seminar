@@ -9,7 +9,7 @@ Each week, one PhD student presents a research topic. Presenters rotate in the o
 | Date (Friday) | Presenter | Topic |
 | --- | --- | --- |
 | October 30, 2026 | Huang Yaojun | Conditional Text Embedding |
-| November 6, 2026 | Thi Quynh Anh Mai | TBD |
+| November 6, 2026 | Thi Quynh Anh Mai | Visual Navigation System |
 | November 13, 2026 | Thi Chung Anh Nguyen | TBD |
 | November 20, 2026 | Thanh Lam Tran | TBD |
 | November 27, 2026 | Dai Nghia Tran | TBD |
