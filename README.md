@@ -11,12 +11,13 @@ Each week, one PhD student presents a research topic. Presenters rotate in the o
 | October 30, 2026 | Huang Yaojun | Conditional Text Embedding |
 | November 6, 2026 | Thi Quynh Anh Mai | Visual Navigation System |
 | November 13, 2026 | Thi Chung Anh Nguyen | Multimodal Latent Reasoning |
-| November 20, 2026 | Thanh Lam Tran | TBD |
-| November 27, 2026 | Dai Nghia Tran | TBD |
-| December 4, 2026 | Huang Yaojun | TBD |
-| December 11, 2026 | Thi Quynh Anh Mai | TBD |
-| December 18, 2026 | Thi Chung Anh Nguyen | TBD |
-| December 24, 2026 | Thanh Lam Tran | TBD |
-| December 31, 2026 | Dai Nghia Tran | TBD |
+| November 20, 2026 | Thanh Lam Tran | Multimodal LLM |
+| November 27, 2026 | Dai Nghia Tran | SAR and AIS Detection |
+| December 4, 2026 | Song Seongmin | TBD |
+| December 11, 2026 | Huang Yaojun  | TBD |
+| December 18, 2026 | Thi Quynh Anh Mai | TBD |
+| December 24, 2026 | Thi Chung Anh Nguyen | TBD |
+| December 31, 2026 | Thanh Lam Tran | TBD |
+
 **Updating topics:** Replace `TBD` with the presentation title. 
 You can link slides or other material directly from the topic cell (To be updated)
